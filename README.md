@@ -1,23 +1,28 @@
-# bga-obra
+# La SGCL en WWW
 
 ## Descripción
 
+Este es el repositorio del proyecto de investigación-creación que estoy llevando a cabo sobre la historia de la presencia web de la Subgerencia Cultural del Banco de la República
+
 ### datos
 
-La carpeta data '''data''' contiene los conjuntos de datos con las obras
-estan en formato ODF, XLS y CSV
+La carpeta data '''data''' contiene los conjuntos de datos con la información que he recogido sobre los poryectos digitales que tiene en línea actualmente la SGCL.
 
-hay dos tablas: _Obras_ y _Referentes_ 
+Los archivos están en formato ODF, XLS y CSV
+
+hay tres tablas: _Proyectos digitales_, _creadores_ y _tipo de proyecto_ 
 
 ### imágenes
 
-la carpeta '''img''' contiene las imagenes del catalogo en formato jpg
+la carpeta '''img''' contiene las imagenes captura de como se ven en línea los proyectos digitales. 
+
+Están en formato PNG
 
 ### texto
 
-la carpeta '''texto''' contiene el documento de texto en formato .md
+la carpeta '''texto''' contiene el documento de texto de la investigación en formato .md
 
 ### Visualizacion
 
-La visualización se encuentra en la carpeta Viz
+La visualización se encuentra en la carpeta Viz y estoy usando las visualizaciones que creé en flourish para Herramientas Digitales el semestre pasado
 
