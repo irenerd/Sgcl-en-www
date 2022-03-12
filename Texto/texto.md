@@ -1,4 +1,4 @@
-# Catálogo de obras Beatriz González
+# Historia de la Subgerencia Cultural del Banco de la República en Internet
 
 ## Resumen
 
@@ -34,8 +34,3 @@ Nam sed dictum eros, sit amet pulvinar mauris. Suspendisse ac eleifend lacus. Nu
 Sed scelerisque risus risus, quis interdum est feugiat non. Interdum et malesuada fames ac ante ipsum primis in faucibus. In hac habitasse platea dictumst. Sed gravida tempus tortor, nec mattis lectus consequat quis.
 
 ## Bibliografía
-Lechuga Navarro, A. J. (2015). De la naturaleza: un viaje por el conocimiento humano. http://0-site.ebrary.com.jabega.uma.es/lib/bibliotecauma/detail.action?docID=11231416
-
-Merkh, D. & Merkh, C. S. (2015). 101 ideas creativas para familias. http://0-site.ebrary.com.jabega.uma.es/lib/bibliotecauma/detail.action?docID=11362387
-
-Barriocanal López, Y. (2016). La actividad escultórica en Ourense, del Renacimiento al Barroco. http://0-site.ebrary.com.jabega.uma.es/lib/bibliotecauma/detail.action?docID=11361917
