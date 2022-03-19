@@ -22,6 +22,9 @@ Están en formato PNG
 
 la carpeta '''texto''' contiene el documento de texto de la investigación en formato .md
 
+tiene la bibliografía exportada de zotero en formato .bib
+y una bibliografía adicional en formato .md
+
 ### Visualizacion
 
 La visualización se encuentra en la carpeta Viz y estoy usando las visualizaciones que creé en flourish para Herramientas Digitales el semestre pasado
